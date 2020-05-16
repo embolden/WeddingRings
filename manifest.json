@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Better Wedding Rings",
+  "Author": "themattfiles",
+  "Version": "0.0.1-beta",
+  "Description": "Improves the quality of Wedding Rings.",
+  "UniqueID": "themattfiles.WeddingRings",
+  "MinimumApiVersion": "3.5",
+  "UpdateKeys": [],
+  "EntryDll": "WeddingRings.dll",
+  "Dependencies": []
+}
